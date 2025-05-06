@@ -38,12 +38,6 @@ No installation needed. Just open the `index.html` file in any browser.
 
 ---
 
-## 📸 Preview
-
-![Game Preview](https://media-hosting.imagekit.io/097e9488a59b4dd9/Screenshot%202025-05-06%20at%207.29.10%E2%80%AFPM.png)
-
----
-
 ## 📬 Contact
 
 **Ansh Singh**  
