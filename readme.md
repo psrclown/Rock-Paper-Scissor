@@ -2,7 +2,7 @@
 
 A classic **Rock Paper Scissors** browser-based game built using **HTML, CSS, and JavaScript**. Designed to provide a fun and interactive user experience with real-time score updates and responsive design.
 
-![Rock Paper Scissors Screenshot](https://media-hosting.imagekit.io/097e9488a59b4dd9/Screenshot%202025-05-06%20at%207.29.10%E2%80%AFPM.png?Expires=1841147988&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hGubBjDgR7pRNQNPXjlXjGexkPKRQOsOGUc6jhbK7pqUFN6tYuJX8Ml~hSSjlz7cc-uNhKKgBBDZBi6aeAIn5-q6nifLsYpf~B9Mzc564U4lwXkRZA4PnXqIGwbosXjwKgGB9C0-ccSGKV2alXhu3Nri49ak~pZELxJDxH1Ww3XkE2VapIf-dOSD8-ZiiruAlkp9QX7SAvN4G8FdNtLwhv1utpSna2FDwbPe0j4JpAGAkopvezKMAleuE-geUlYfDUnzFwgCFLNeLKz-KlIcYPP5btXMOpc8g1rPeqIJJ11C2rb~YFen8wQz4IFhHPfTMm~PenP~DA-BYXBaK5TO5w__)
+![Rock Paper Scissors Screenshot](https://res.cloudinary.com/dvzwgucdm/image/upload/v1749354845/Screenshot_2025-06-08_at_9.19.26_AM_sgbnll.png)
 
 ---
 
