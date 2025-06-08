@@ -2,7 +2,7 @@
 
 A classic **Rock Paper Scissors** browser-based game built using **HTML, CSS, and JavaScript**. Designed to provide a fun and interactive user experience with real-time score updates and responsive design.
 
-![Rock Paper Scissors Screenshot](https://res.cloudinary.com/dvzwgucdm/image/upload/v1749354845/Screenshot_2025-06-08_at_9.19.26_AM_sgbnll.png)
+![Rock Paper Scissors Screenshot]()
 
 ---
 
